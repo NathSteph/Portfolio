@@ -6,6 +6,7 @@ Ce dépôt regroupe l’ensemble de mes projets en **cybersécurité**, **dével
 
 ## 📂 Projets Principaux  
 
+<!--
 ### 🛡️ Cybersecurity Projects  
 - 🔍 **[CTF Challenges](https://github.com/TonNomUtilisateur/ctf-challenges)** → Résolution et write-ups de challenges CTF  
 - 📡 **[Pentesting Tools](https://github.com/TonNomUtilisateur/pentesting-tools)** → Scripts Python/Bash pour tests de sécurité  
@@ -17,7 +18,7 @@ Ce dépôt regroupe l’ensemble de mes projets en **cybersécurité**, **dével
 
 ### 🌍 Projets Web & Cloud  
 - 🌐 **Web Security App** → Détection des vulnérabilités web **(Bientôt public 🚧)**  
-- ☁ **Docker & Cloud Security** → Sécurisation des conteneurs Docker **(Privé, accès sur demande 🔒)**  
+- ☁ **Docker & Cloud Security** → Sécurisation des conteneurs Docker **(Privé, accès sur demande 🔒)**  -->
 
 ---
 
