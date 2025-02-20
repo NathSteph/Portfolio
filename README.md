@@ -22,8 +22,8 @@ Ce dépôt regroupe l’ensemble de mes projets en **cybersécurité**, **dével
 ---
 
 ## 📬 Contact & Liens  
-🔗 **Portfolio GitHub** : [github.com/TonNomUtilisateur](https://github.com/TonNomUtilisateur)  
-🔗 **LinkedIn** : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)  
-📧 **Email** : [your.email@example.com]  
+🔗 **Portfolio GitHub** : [github.com/NathSteph](https://github.com/NathSteph/Portfolio)  
+🔗 **LinkedIn** : [linkedin.com/in/nathmaktchic](www.linkedin.com/in/nathmaktchic)  
+<!--📧 **Email** : [your.email@example.com]--> 
 
 📢 **N’hésitez pas à explorer mes projets et à contribuer !** 🚀  
