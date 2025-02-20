@@ -6,6 +6,8 @@ Ce dépôt regroupe l’ensemble de mes projets en **cybersécurité**, **dével
 
 ## 📂 Projets Principaux  
 
+### 🛡️ Cryptographie & Sécurité des Réseaux 
+- 🔐 **[Protocole graphique](https://github.com/NathSteph/ReseauxII)** → Implémentation d'un protocole graphique (style QR-code) en python.
 <!--
 ### 🛡️ Cybersecurity Projects  
 - 🔍 **[CTF Challenges](https://github.com/TonNomUtilisateur/ctf-challenges)** → Résolution et write-ups de challenges CTF  
