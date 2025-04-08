@@ -6,7 +6,7 @@ Ce dépôt regroupe l’ensemble de mes projets en **cybersécurité**, **dével
 
 ## 📂 Projets Principaux  
 
-### 🛡️ Cybersecurity Projects 
+### 🛡️ Cybersecurité
 - 🛠 **[Scanner](https://github.com/NathSteph/Scan_port)** → Scanner de ports en Python. 
 
 ### 🛡️ Cryptographie & Sécurité des Réseaux 
